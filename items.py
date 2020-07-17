@@ -6,7 +6,7 @@ items = {
     2053: "Raptor Cloak",
     3072: "The Bloodthirster",
     1037: "Pickaxe",
-    3673: "Enchantment: Runic Echoes",
+    3673: "Enchantment: Runic Echoes", 
     3222: "Mikael's Crucible",
     3461: "Golden Transcendence (Disabled)",
     3047: "Ninja Tabi",
